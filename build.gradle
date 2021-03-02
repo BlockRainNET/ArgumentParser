@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group 'net.blockrain'
+version '0.1'
